@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+test
+=======
+A
+test Wang
+>>>>>>> fa1bc3976b476b2bcc18e6c84e9f8f236745eab7
